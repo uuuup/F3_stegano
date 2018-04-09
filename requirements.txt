@@ -1,0 +1,7 @@
+numpy
+scipy
+pillow
+dahuffman
+matplotlib
+opencv-python
+
